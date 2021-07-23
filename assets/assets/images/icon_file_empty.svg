@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="416px" height="512px" viewBox="0 0 416 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_file_empty</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_file_empty" fill="#000000" fill-rule="nonzero">
+            <path d="M416.000277,176 L416.000277,112 C416.025,107.747 414.355,103.659 411.36,100.64 L315.36,4.64 C312.341,1.645 308.253,-0.024 304,-0.00025529918 L48,-0.00025529918 C21.49,-0.00025529918 0,21.491 0,48 L0,464 C0,490.51 21.49,512 48,512 L160,512 L160,480 L48,480 C39.163,480 32,472.837 32,464 L32,48 C32,39.163 39.163,32 48,32 L288,32 L288,96 C288,113.673 302.327,128 320,128 L384,128 L384,176 L416.000277,176 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

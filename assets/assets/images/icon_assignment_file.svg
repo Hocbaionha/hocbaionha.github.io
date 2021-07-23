@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="135px" viewBox="0 0 121 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_assignment_file</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_assignment_file" transform="translate(1.000000, 1.000000)">
+            <path d="M9.76,28.2199778 L3.07,28.2199778 C1.75777363,28.2144062 0.686459688,29.2678649 0.67,30.58 L0.67,122.83 C0.68647353,124.140537 1.75940644,125.191117 3.07,125.180087 L71,125.180087 C72.3105936,125.191117 73.3835265,124.140537 73.4,122.83 L73.4,116.09" id="Path" stroke="#231F20" stroke-width="2.88" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18.85,19.1399126 L12.16,19.1399126 C10.8494064,19.1288827 9.77647353,20.1794628 9.76,21.49 L9.76,113.74 C9.77647353,115.050537 10.8494064,116.101117 12.16,116.090087 L80.07,116.090087 C81.3805936,116.101117 82.4535265,115.050537 82.47,113.74 L82.47,112.1" id="Path" stroke="#231F20" stroke-width="2.88" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M27.94,10.0499126 L21.25,10.0499126 C19.9394064,10.0388827 18.8664735,11.0894628 18.85,12.4 L18.85,104.65 C18.8664735,105.960537 19.9394064,107.011117 21.25,107.000087 L47.72,107.000087" id="Path" stroke="#231F20" stroke-width="2.88" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path" fill="#41BEEE" fill-rule="nonzero" points="85.01 104.3 93.36 112.65 98.93 107.08 90.58 98.73"></polyline>
+            <path d="M98.25,97.91 C98.8802926,97.918001 99.4878066,97.6745845 99.9381935,97.2335806 C100.38858,96.7925768 100.644731,96.1903214 100.65,95.56 L100.65,26.22 L74.81,0.999808815 L30.34,0.999808815 C29.7097074,0.991998951 29.1021934,1.23541548 28.6518065,1.67641936 C28.2014195,2.11742323 27.9452686,2.71967861 27.94,3.35 L27.94,95.6 C27.9452686,96.2303214 28.2014195,96.8325768 28.6518065,97.2735806 C29.1021934,97.7145845 29.7097074,97.958001 30.34,97.9501912 L42,97.9501912" id="Path" stroke="#231F20" stroke-width="2.88" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" fill="#41BEEE" fill-rule="nonzero" cx="69.4" cy="83.11" r="26.02"></circle>
+            <circle id="Oval" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round" cx="69.4" cy="83.11" r="26.02"></circle>
+            <circle id="Oval" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="69.4" cy="83.11" r="19.17"></circle>
+            <polyline id="Path" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round" points="85.01 104.3 93.36 112.65 98.93 107.08 90.58 98.73"></polyline>
+            <rect id="Rectangle" fill="#41BEEE" fill-rule="nonzero" transform="translate(104.502024, 118.211151) rotate(-45.000000) translate(-104.502024, -118.211151) " x="98.1670241" y="106.401151" width="12.67" height="23.62"></rect>
+            <rect id="Rectangle" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round" transform="translate(104.502024, 118.211151) rotate(-45.000000) translate(-104.502024, -118.211151) " x="98.1670241" y="106.401151" width="12.67" height="23.62"></rect>
+            <line x1="99.66" y1="122.33" x2="108.25" y2="113.74" id="Path" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="95.66" y1="118.33" x2="104.26" y2="109.74" id="Path" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round"></line>
+            <polygon id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round" points="74.81 26.22 74.81 0.96 100.65 26.22"></polygon>
+            <line x1="39.28" y1="81.55" x2="38.24" y2="81.55" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="40.65" y1="70.84" x2="38.24" y2="70.84" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="49.09" y1="60.14" x2="38.24" y2="60.14" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="90.35" y1="60.14" x2="89.03" y2="60.14" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="90.35" y1="49.43" x2="38.24" y2="49.43" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="90.35" y1="38.73" x2="38.24" y2="38.73" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="68.75" y1="28.02" x2="38.24" y2="28.02" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+            <line x1="67.54" y1="17.32" x2="38.24" y2="17.32" id="Path" stroke="#231F20" stroke-width="2.88" stroke-linecap="round" stroke-linejoin="round"></line>
+        </g>
+    </g>
+</svg>

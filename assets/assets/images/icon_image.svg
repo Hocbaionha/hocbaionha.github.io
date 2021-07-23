@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="106px" viewBox="0 0 134 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_image</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_image" transform="translate(2.000000, 2.000000)">
+            <rect id="Rectangle" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" x="0.39" y="0.23" width="129.22" height="101.53"></rect>
+            <rect id="Rectangle" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" transform="translate(65.000000, 50.995000) rotate(90.000000) translate(-65.000000, -50.995000) " x="24.095" y="-3.755" width="81.81" height="109.5"></rect>
+            <rect id="Rectangle" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" x="0.39" y="0.23" width="129.22" height="101.53"></rect>
+            <rect id="Rectangle" fill="#41BEEE" fill-rule="nonzero" transform="translate(65.000000, 50.995000) rotate(90.000000) translate(-65.000000, -50.995000) " x="24.095" y="-3.755" width="81.81" height="109.5"></rect>
+            <rect id="Rectangle" stroke="#231F20" stroke-width="3.31" stroke-linecap="round" stroke-linejoin="round" transform="translate(65.000000, 50.995000) rotate(90.000000) translate(-65.000000, -50.995000) " x="24.095" y="-3.755" width="81.81" height="109.5"></rect>
+            <polygon id="Path" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" points="64.71 57.16 78.61 43.96 94.03 60.33 94.17 81.61 64.81 80.58"></polygon>
+            <path d="M10.25,67.2 C15.64,59.2 38.05,32.66 40.12,31.28 C42.93,29.4 80,76.35 80,76.35 C80,76.35 99.72,53.35 102.07,51.94 L119.21,70.94 L119.21,91.94 L10.21,91.94 L10.25,67.2 Z" id="Path" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+            <ellipse id="Oval" stroke="#231F20" stroke-width="3.31" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" cx="98.14" cy="29.67" rx="9.48" ry="9.34"></ellipse>
+        </g>
+    </g>
+</svg>
