@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<head>
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Hocbaionha web application">
@@ -8,7 +9,7 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
 
-  <meta name="google-signin-client_id" content="288259119229-9nufnd6v292a3b2tdsk7kfo96a8johe5.apps.googleusercontent.com">
+  <meta name="google-signin-client_id" content="666303282505-ep30766et8r4g5b3c15j0pp1ntp8cf17.apps.googleusercontent.com">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -28,8 +29,8 @@
   <!-- Project custom script -->
   <script>
     var projectConfig = {
-      environment: "dev",
-      facebook_app_id: "298057821594361"
+      environment: "prod",
+      facebook_app_id: "1677426979215816"
     };
     window.loadProjectConfig = function () {
       return projectConfig;
@@ -57,7 +58,7 @@
           }   
       M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
       if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
-      return M.join(' '); 
+      return M.join(' ');    
     }
   </script>
   
@@ -84,14 +85,14 @@
     // Your web app's Firebase configuration
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     var firebaseConfig = {
-      apiKey: "AIzaSyC_GhU7GF6dZHsKDbeqrmzq4fa8YJ95rQM",
-      authDomain: "hbon-dev.firebaseapp.com",
-      databaseURL: "https://hbon-dev.firebaseio.com",
-      projectId: "hbon-dev",
-      storageBucket: "hbon-dev.appspot.com",
-      messagingSenderId: "288259119229",
-      appId: "1:288259119229:web:e6eeccb58a8b9565c27914",
-      measurementId: "G-CQSKZV9B64"
+      apiKey: "AIzaSyD1rFzhNHcbWql0L8g4dWMcdgn5KiZ3cv4",
+      authDomain: "hbon-sso.firebaseapp.com",
+      databaseURL: "https://hbon-sso.firebaseio.com",
+      projectId: "hbon-sso",
+      storageBucket: "hbon-sso.appspot.com",
+      messagingSenderId: "666303282505",
+      appId: "1:666303282505:web:830657a8727d18f1276e98",
+      measurementId: "G-5G630LG9EM"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
@@ -112,10 +113,10 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=1444907975');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=1861731110');
       });
     }
   </script>
-  <script src="main.dart.js?version=14" type="application/javascript"></script>
+  <script src="main.dart.js?version=17" type="application/javascript"></script>
 </body>
 </html>
