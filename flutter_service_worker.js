@@ -3,13 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "prod/index.html": "3ee3eabd4e5dd47663e8de872e36901f",
-"/": "5e10d49838e3d29408fcc48cd82cfaaa",
+  "prod/index.html": "7127500ca991075558183fde2a45765e",
+"/": "b62bdc02093d03a849e0282f5ae388d2",
 "version.json": "9f7414b19e48dc9614725bafc2369e5d",
 "favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
-"index.html": "266c04201f0d9e4f90c1d427ffdbef27",
-"main.dart.js_4.part.js": "d3b4fc3611f944ba598c37420a69c067",
-"main.dart.js": "3e12520c440be760c12d25ea36388b05",
+"index.html": "1e0ef4a55173f055395013d67072228d",
+"main.dart.js_4.part.js": "eb383b93f079dd38f3dc698a352d6633",
+"main.dart.js": "32b7b39f8cbc8669a2ddfbadf6474c09",
 "icons/favicon-16x16.png": "bc5c6147a3bb9f954d37c188d5ae4664",
 "icons/favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
 "icons/android-chrome-192x192.png": "d6b89c6b51fe48cc9b5bf76d6d0568a2",
@@ -18,10 +18,10 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "6486cdde38c9103aece6fb80e6603cef",
 "manifest.json": "09aac043b257dd15d5a88f7cea188f6e",
-"dev/index.html": "5e10d49838e3d29408fcc48cd82cfaaa",
-"main.dart.js_1.part.js": "2f9d477448472d51d1da618b781e96eb",
-"main.dart.js_3.part.js": "02960c2301c4d7fffe311c263368ca42",
-"assets/AssetManifest.json": "55c1be47def0c4c92b623d2a91396fab",
+"dev/index.html": "b62bdc02093d03a849e0282f5ae388d2",
+"main.dart.js_1.part.js": "2c33ea9dac1e20301ed2c902868604bf",
+"main.dart.js_3.part.js": "d2e34fa66f3f60a9b27180e0e419bb85",
+"assets/AssetManifest.json": "087000028d43c05d63971f9e933bad32",
 "assets/NOTICES": "44b5f50f63e6a767a1354cc36d5b0976",
 "assets/FontManifest.json": "9f726b0a41de7deb606c5819aecc5399",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
@@ -176,6 +176,7 @@ const RESOURCES = {
 "assets/assets/images/icon_classroom.svg": "8977abc75b6ac516918b50489346ee78",
 "assets/assets/images/error_unauthorized_illustration.png": "fc9989812216e3d941fe0b7e38d93c33",
 "assets/assets/images/hocbaionha_text.png": "3ab8c427bd3ba8274b61caf5e09d2837",
+"assets/assets/images/searching_illustration.png": "27e7c9bfdfe7de72ea536340b3dab903",
 "assets/assets/images/icon_groups.svg": "cd35846384aae5e98a27541835c5c5b8",
 "assets/assets/images/icon_handwriting.svg": "fe1d40e9da32949c619d3280eab072b5",
 "assets/assets/images/icons_background.svg": "f1bb163108b5ed3b8961a81aa4529c72",
@@ -190,7 +191,7 @@ const RESOURCES = {
 "assets/assets/sounds/click.wav": "38494f675479adabe450c96c2e3d05a7",
 "assets/assets/sounds/ding.wav": "d9753fd7fed472a1adb2dc0288819dee",
 "assets/assets/fonts/Rounds_Black.otf": "4aa47bde10dae48172f599b4181ca75b",
-"main.dart.js_2.part.js": "0e1bd9db49c4f7ee01dd690e64fa80fb"
+"main.dart.js_2.part.js": "25ea7935d2011332b7120dda8edf8be2"
 };
 
 // The application shell files that are downloaded before a service worker can
