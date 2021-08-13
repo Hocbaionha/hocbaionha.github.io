@@ -14,7 +14,7 @@
 	<script>
 		function submitForm(id) { 
 		  console.log("submit form");
-		  window.postMessage({foo: 1, bar: false});
+		  window.parent.postMessage({foo: 1, bar: false});
 		}
 	</script>
 </body>
