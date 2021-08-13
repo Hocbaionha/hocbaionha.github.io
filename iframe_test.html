@@ -14,10 +14,7 @@
 	<script>
 		function submitForm(id) { 
 		  console.log("submit form");
-		  const event = new CustomEvent("HbonFlutterEvent", {
-			    detail: {foo: 1, bar: false}
-			});
-		  window.dispatchEvent(event);
+		  window.postMessage({foo: 1, bar: false});
 		}
 	</script>
 </body>
