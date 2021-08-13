@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>iFrame Test</title>
+</head>
+<body>
+	<form id="form">
+	  <label>Test field: <input type="text"></label>
+	  <br><br>
+	  <button type="submit" onclick="submitForm(this)">Submit form</button>
+	</form>
+	<p id="log"></p>
+	<script>
+		function submitForm(id) { 
+		  console.log("submit form");
+		  window.postMessage({foo: 1, bar: false});
+		}
+	</script>
+</body>
+</html>
