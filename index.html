@@ -24,8 +24,28 @@
 
   <title>hbon</title>
   <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+
+  <div class="center">
+    <div class="hbon-logo">
+      <img src="img/hocbaionha_logo.png" alt="Hocbaionha.com">
+    </div>
+  </div>
+
+  <div class="bottom-center">
+    <!-- <div class="sk-folding-cube">
+      <div class="sk-cube1 sk-cube"></div>
+      <div class="sk-cube2 sk-cube"></div>
+      <div class="sk-cube4 sk-cube"></div>
+      <div class="sk-cube3 sk-cube"></div>
+    </div> -->
+    <div class="atom-loading">
+      <img src="img/atom_loading.gif" alt="loading">
+    </div>
+  </div>
+
   <!-- Project custom script -->
   <script>
     var projectConfig = {
@@ -113,7 +133,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=343122093');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=75332792');
       });
     }
   </script>
