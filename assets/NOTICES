@@ -5631,10 +5631,12 @@ package_info
 path_provider
 path_provider_windows
 plugin_platform_interface
+pointer_interceptor
 share
 shared_preferences
 url_launcher
 url_launcher_platform_interface
+video_player
 video_player_platform_interface
 video_player_web
 webview_flutter
@@ -6443,7 +6445,6 @@ device_info_platform_interface
 google_sign_in_platform_interface
 path_provider_macos
 shared_preferences_platform_interface
-video_player
 
 Copyright 2017 The Chromium Authors. All rights reserved.
 
