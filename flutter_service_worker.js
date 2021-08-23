@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "prod/index.html": "e1391cd388c6c0a1c2319835052da959",
-"/": "651eb20c46c61a723a29a0e174a94210",
+  "prod/index.html": "df731020d33a18976bbcfaf93405e938",
+"/": "831a4290c5b492f3bce76c4c98551f1c",
 "version.json": "b7220295e4c8a9bba21fade4caafc19b",
 "favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
-"index.html": "8db609986771e7e05fd9530145b24c87",
+"index.html": "161589416b9ee28d022ed95244470e33",
 "styles.css": "c6d8274f01d6c6241224aa82b8e40ec5",
-"main.dart.js_4.part.js": "4e150766c09b5c56dc9cb59c2a64e2b0",
-"main.dart.js": "3f2466f7f5d3adaa788bc78c2831881c",
+"main.dart.js_4.part.js": "31b2ed722959c81823c1f65986906a3f",
+"main.dart.js": "270a8a90300f56c35a8797951df04969",
 "img/hbon_logo.png": "555d0cdd5810cff75f0bbc97e29b2520",
 "img/atom_loading.gif": "5be9eccdb762d4c58c44823d01ab3c4b",
 "img/hocbaionha_logo.png": "e4ecad386d238e2b46e4784f8dfdf097",
@@ -22,10 +22,10 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "6486cdde38c9103aece6fb80e6603cef",
 "manifest.json": "09aac043b257dd15d5a88f7cea188f6e",
-"dev/index.html": "651eb20c46c61a723a29a0e174a94210",
-"main.dart.js_1.part.js": "8d825fcfc263ef83655a6e8398cb9baa",
-"main.dart.js_3.part.js": "47338461b1cf1e68e88c9bd340da9dcb",
-"assets/AssetManifest.json": "fbfa7953e35e100e7689b630afa03dc3",
+"dev/index.html": "831a4290c5b492f3bce76c4c98551f1c",
+"main.dart.js_1.part.js": "c75fbbf7cb677f84d6df1c7cfb12d4cb",
+"main.dart.js_3.part.js": "ed679fbf13623b9485a7baebc043495f",
+"assets/AssetManifest.json": "84db026855b317e9b91e59ebd18e87d7",
 "assets/NOTICES": "3c3ec79f1cb5f2e4f44c916b05b91d00",
 "assets/FontManifest.json": "9f726b0a41de7deb606c5819aecc5399",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
@@ -159,6 +159,7 @@ const RESOURCES = {
 "assets/assets/images/icon_bell.svg": "08336ebe75da2830375601c414e08c09",
 "assets/assets/images/lending_slide2.jpg": "18741430e70b5a2ef08aa53ca2052563",
 "assets/assets/images/icon_no_contacts.svg": "6555a6148e6f67f1907c7217903bf7af",
+"assets/assets/images/icon_info.svg": "4ab7f567494363c35aaf4a881785277f",
 "assets/assets/images/icon_link_account.svg": "bf253958789a878388c8e19320d01ff6",
 "assets/assets/images/loading_atom_dark.webp": "0530f8e4bca9bdd015929631061a80b3",
 "assets/assets/images/hbon_icon_wiki.png": "9e510a90d1b7e5e01e794e752929fd09",
@@ -207,7 +208,7 @@ const RESOURCES = {
 "assets/assets/sounds/click.wav": "38494f675479adabe450c96c2e3d05a7",
 "assets/assets/sounds/ding.wav": "d9753fd7fed472a1adb2dc0288819dee",
 "assets/assets/fonts/Rounds_Black.otf": "4aa47bde10dae48172f599b4181ca75b",
-"main.dart.js_2.part.js": "37fc391650ff5e10a1a3a10e78bcd4d3"
+"main.dart.js_2.part.js": "4aa7b10517004897eeaea88f8be14e50"
 };
 
 // The application shell files that are downloaded before a service worker can
