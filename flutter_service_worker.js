@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "prod/index.html": "c9eaa2006f1f414b97ed0ae904bff4cb",
-"/": "2ae8a32a4590bfcbb987add79d9c6361",
+  "prod/index.html": "c7f0542943a3549ad64c20264f4122cb",
+"/": "ca1f2f0f3041d6088dff78b369101319",
 "version.json": "b7220295e4c8a9bba21fade4caafc19b",
 "favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
-"index.html": "5f4e93a14b8a31fc9a43de67a2407587",
+"index.html": "c32bb4dfce06e56aea9baa81c5577c36",
 "styles.css": "c6d8274f01d6c6241224aa82b8e40ec5",
-"main.dart.js_4.part.js": "844a0b84feaba889835d5066ccf8310d",
-"main.dart.js": "b84ff9bb31276fce44bbb402801a895e",
+"main.dart.js_4.part.js": "1f1e76897e880056f5c4e194bd2d89ac",
+"main.dart.js": "5c244e3966245b6de4b4ee44319f5659",
 "img/hbon_logo.png": "555d0cdd5810cff75f0bbc97e29b2520",
 "img/atom_loading.gif": "5be9eccdb762d4c58c44823d01ab3c4b",
 "img/hocbaionha_logo.png": "e4ecad386d238e2b46e4784f8dfdf097",
@@ -22,11 +22,11 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "6486cdde38c9103aece6fb80e6603cef",
 "manifest.json": "09aac043b257dd15d5a88f7cea188f6e",
-"dev/index.html": "2ae8a32a4590bfcbb987add79d9c6361",
-"main.dart.js_1.part.js": "25cd9bf211728faa8a3b091c6a52a454",
-"main.dart.js_3.part.js": "0571a73419f043357e53695a3d66bd26",
-"assets/AssetManifest.json": "10962c70dc29aade60e7a0ceec9263bb",
-"assets/NOTICES": "69cf9fe3a583b36c463cff4945a60e90",
+"dev/index.html": "ca1f2f0f3041d6088dff78b369101319",
+"main.dart.js_1.part.js": "bd7b37507493f8ad47e7a360accd187f",
+"main.dart.js_3.part.js": "10181db672e7f600f8ad15f371e118a2",
+"assets/AssetManifest.json": "52135f741bc0c1139c435cac9b84c68a",
+"assets/NOTICES": "8ec6160d0fa22aab8bb6ef227fe7e782",
 "assets/FontManifest.json": "9f726b0a41de7deb606c5819aecc5399",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Script-Regular.ttf": "55d2dcd4778875a53ff09320a85a5296",
@@ -100,6 +100,7 @@ const RESOURCES = {
 "assets/assets/images/2.0x/hocbaionha_text.png": "1458c59419326d26ded0e26c3ae629fb",
 "assets/assets/images/hbon_icon_geo.png": "4e420d5918ee07c5a45b09301283256f",
 "assets/assets/images/icon_text.svg": "d63a857d9038bd845330db824aa1bf8d",
+"assets/assets/images/logo_elsa.png": "a1edd98a04ce1117b3046d8499d0516a",
 "assets/assets/images/link_student_step1_vi.jpg": "34c00e2a7cb6b729694288dd7643474a",
 "assets/assets/images/icon_quiz_alt.svg": "aac317d21ebbf43de621d8a677eb7e7a",
 "assets/assets/images/typewriter_illustration.png": "2427adaddbbea68d9d7993f60421553a",
@@ -202,6 +203,7 @@ const RESOURCES = {
 "assets/assets/anims/warning_check.flr": "ff4a110b8d905dedb4d4639a17399703",
 "assets/assets/anims/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
 "assets/assets/anims/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
+"assets/assets/anims/search_not_found.json": "08f8528864085817831ebd90e1846d6a",
 "assets/assets/anims/success_check.flr": "9d163bcc6f6b58566e0abde7761a67a0",
 "assets/assets/anims/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
 "assets/assets/sounds/correct_answer.mp3": "caa6470ff6e88721f049ce3f85b99ae2",
@@ -209,7 +211,7 @@ const RESOURCES = {
 "assets/assets/sounds/click.wav": "38494f675479adabe450c96c2e3d05a7",
 "assets/assets/sounds/ding.wav": "d9753fd7fed472a1adb2dc0288819dee",
 "assets/assets/fonts/Rounds_Black.otf": "4aa47bde10dae48172f599b4181ca75b",
-"main.dart.js_2.part.js": "b9fff8d8388e558da02ac55c727e975b"
+"main.dart.js_2.part.js": "2ad45aa61018f11e2e90ad210cceae4a"
 };
 
 // The application shell files that are downloaded before a service worker can
