@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "prod/index.html": "c7f0542943a3549ad64c20264f4122cb",
-"/": "ca1f2f0f3041d6088dff78b369101319",
+  "prod/index.html": "72e58a5d2de8fabf0ff513c7ac99d6a6",
+"/": "c3dee6379d1c1d689fdbc65eedc57581",
 "version.json": "b7220295e4c8a9bba21fade4caafc19b",
 "favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
-"index.html": "c32bb4dfce06e56aea9baa81c5577c36",
+"index.html": "b8f0ae0717c2cdbc6536b99efe4e3060",
 "styles.css": "c6d8274f01d6c6241224aa82b8e40ec5",
-"main.dart.js_4.part.js": "1f1e76897e880056f5c4e194bd2d89ac",
-"main.dart.js": "5c244e3966245b6de4b4ee44319f5659",
+"main.dart.js_4.part.js": "f025c1c246b5f3e6d140f31ea4a366fc",
+"main.dart.js": "afe74b83d75b1bbd09a87ef7c6e254e3",
 "img/hbon_logo.png": "555d0cdd5810cff75f0bbc97e29b2520",
 "img/atom_loading.gif": "5be9eccdb762d4c58c44823d01ab3c4b",
 "img/hocbaionha_logo.png": "e4ecad386d238e2b46e4784f8dfdf097",
@@ -22,10 +22,10 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "6486cdde38c9103aece6fb80e6603cef",
 "manifest.json": "09aac043b257dd15d5a88f7cea188f6e",
-"dev/index.html": "ca1f2f0f3041d6088dff78b369101319",
-"main.dart.js_1.part.js": "bd7b37507493f8ad47e7a360accd187f",
-"main.dart.js_3.part.js": "10181db672e7f600f8ad15f371e118a2",
-"assets/AssetManifest.json": "52135f741bc0c1139c435cac9b84c68a",
+"dev/index.html": "c3dee6379d1c1d689fdbc65eedc57581",
+"main.dart.js_1.part.js": "a4ca907ed918ce562275872f923cbb6c",
+"main.dart.js_3.part.js": "3e97567cd8df9ea6266850ce21d77cdb",
+"assets/AssetManifest.json": "b04cfcef37761486d3cbd5820207c782",
 "assets/NOTICES": "8ec6160d0fa22aab8bb6ef227fe7e782",
 "assets/FontManifest.json": "9f726b0a41de7deb606c5819aecc5399",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
@@ -200,6 +200,7 @@ const RESOURCES = {
 "assets/assets/images/icon_handwriting.svg": "fe1d40e9da32949c619d3280eab072b5",
 "assets/assets/images/icons_background.svg": "f1bb163108b5ed3b8961a81aa4529c72",
 "assets/assets/images/hocbaionha_cert_copyright.png": "8f06ce43677446554e3e5911ebca95b4",
+"assets/assets/anims/empty-state.json": "6a65a6ec4da50a5a4db16ba1b373db9e",
 "assets/assets/anims/warning_check.flr": "ff4a110b8d905dedb4d4639a17399703",
 "assets/assets/anims/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
 "assets/assets/anims/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
@@ -211,7 +212,7 @@ const RESOURCES = {
 "assets/assets/sounds/click.wav": "38494f675479adabe450c96c2e3d05a7",
 "assets/assets/sounds/ding.wav": "d9753fd7fed472a1adb2dc0288819dee",
 "assets/assets/fonts/Rounds_Black.otf": "4aa47bde10dae48172f599b4181ca75b",
-"main.dart.js_2.part.js": "2ad45aa61018f11e2e90ad210cceae4a"
+"main.dart.js_2.part.js": "f629c34d0aac53ad91f33522c737546a"
 };
 
 // The application shell files that are downloaded before a service worker can
