@@ -3,14 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "prod/index.html": "263e8344fcfb720405422be8bb80d5cc",
-"/": "b0058e66235dff4b8986c2bd2793c388",
-"version.json": "9c4cd29b916b644c8c14b7b35344ea58",
+  "prod/index.html": "d543277345663527f56c187963c7c585",
+"/": "d2405a1fd4c9698b69e24cd029b6299d",
+"version.json": "d245be0472b8d7bb01d1bb904641f9ef",
 "favicon.ico": "229c7a4252f75a1c58a8c550c1226c54",
-"index.html": "1decc9d2eebab252c3375d8409231dc9",
+"index.html": "db555f9e0040eae06b13d374128cbcf4",
 "styles.css": "c6d8274f01d6c6241224aa82b8e40ec5",
-"main.dart.js_4.part.js": "e48b65916cabf3c610069cf23a44154a",
-"main.dart.js": "b13ca36fdc647bb7168a8fc38e2e7288",
+"main.dart.js_4.part.js": "a54296e2dfc07b3aa95c9b1c9f48ddc4",
+"main.dart.js": "d951f542816dcc34125bf715d1995442",
 "img/hbon_logo.png": "555d0cdd5810cff75f0bbc97e29b2520",
 "img/atom_loading.gif": "5be9eccdb762d4c58c44823d01ab3c4b",
 "img/hocbaionha_logo.png": "e4ecad386d238e2b46e4784f8dfdf097",
@@ -22,10 +22,10 @@ const RESOURCES = {
 "icons/site.webmanifest": "053100cb84a50d2ae7f5492f7dd7f25e",
 "icons/favicon-32x32.png": "6486cdde38c9103aece6fb80e6603cef",
 "manifest.json": "09aac043b257dd15d5a88f7cea188f6e",
-"dev/index.html": "b0058e66235dff4b8986c2bd2793c388",
-"main.dart.js_1.part.js": "9d1f58716e2a48cfa12d98e572841673",
-"main.dart.js_3.part.js": "b2769d8ab0377201adb857cfd0ebd0de",
-"assets/AssetManifest.json": "2f4db9a62bdc603a5d0445fea846f213",
+"dev/index.html": "d2405a1fd4c9698b69e24cd029b6299d",
+"main.dart.js_1.part.js": "da33600813ba689da2e86c364e824a0a",
+"main.dart.js_3.part.js": "e0745f636c5c2f1a7bbdff11a07bec5a",
+"assets/AssetManifest.json": "afe3811d61ee516f49ff3b6f3747203b",
 "assets/NOTICES": "2439ca9cfc7ae3a324e488cf4fe2d4ca",
 "assets/FontManifest.json": "9f726b0a41de7deb606c5819aecc5399",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
@@ -203,16 +203,18 @@ const RESOURCES = {
 "assets/assets/anims/error.json": "6f2cc9987ece7cb7a9133e6c0ba5dc66",
 "assets/assets/anims/warning_check.flr": "ff4a110b8d905dedb4d4639a17399703",
 "assets/assets/anims/loading.flr": "b6987a8e6de74062b8c002539d2d043e",
+"assets/assets/anims/almost_correct_check.flr": "386ff74207138764689bf56917e69484",
 "assets/assets/anims/info_check.flr": "f6b81c2aa3ae36418c13bfd36d11ac04",
 "assets/assets/anims/search_not_found.json": "08f8528864085817831ebd90e1846d6a",
 "assets/assets/anims/success_check.flr": "9d163bcc6f6b58566e0abde7761a67a0",
 "assets/assets/anims/error_check.flr": "d9f54791d0d79935d22206966707e4b3",
+"assets/assets/sounds/wrong_answer.wav": "8a1b4019034dff1cb614a8b01e33a034",
+"assets/assets/sounds/almost_right_answer.wav": "86f5b7836fcf7d2e7d4a244729388a16",
 "assets/assets/sounds/correct_answer.mp3": "caa6470ff6e88721f049ce3f85b99ae2",
-"assets/assets/sounds/wrong_answer.mp3": "242c529d3bd194045b7036db8c7235fb",
 "assets/assets/sounds/click.wav": "38494f675479adabe450c96c2e3d05a7",
 "assets/assets/sounds/ding.wav": "d9753fd7fed472a1adb2dc0288819dee",
 "assets/assets/fonts/Rounds_Black.otf": "4aa47bde10dae48172f599b4181ca75b",
-"main.dart.js_2.part.js": "cebe3832ccbf798fb877f203a2870309"
+"main.dart.js_2.part.js": "7b6057d0eaab317b0b1d02041e2abd33"
 };
 
 // The application shell files that are downloaded before a service worker can
