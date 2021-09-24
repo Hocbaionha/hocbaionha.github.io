@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>turned_in-24px</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="turned_in-24px">
+            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M3.93489265,3.89364558 L5.00962722,5.033 L5.00962722,5.025 L18.9996272,19.862 L19.811869,20.7230527 L18.4904476,21.9480466 L16.6206272,19.98 L12,18 L5,21 L5.00762722,7.756 L2.57362722,5.19429127 L3.93489265,3.89364558 Z M17,3 C18.1,3 19,3.9 19,5 L19,5 L18.9996272,17.308 L5.90883489,3.32808656 C6.18320172,3.14655039 6.50487396,3.03130997 6.85136551,3.00551277 L7,3 Z" id="Path-2" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
