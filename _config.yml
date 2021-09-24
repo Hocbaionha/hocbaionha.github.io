@@ -4,5 +4,5 @@
 title: Hocbaionha.com
 
 # Build settings
-includes:
-  - .well-known
+include:
+  - .well-known/
